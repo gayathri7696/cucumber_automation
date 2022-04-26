@@ -1,0 +1,676 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "line": 2,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 7711169400,
+              "status": "passed"
+            },
+            "line": 3,
+            "name": "user Launch The Application",
+            "match": {
+              "location": "com.stepdef.Step_Def.user_launch_the_application()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 5551097800,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "user Clicks The Signin Page",
+            "match": {
+              "location": "com.stepdef.Step_Def.user_clicks_the_signin_page()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 307823200,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "user Enter Emailid In Emailid Field",
+            "match": {
+              "location": "com.stepdef.Step_Def.user_enter_emailid_in_emailid_field()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 204881800,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "user Enter Password In Password Field",
+            "match": {
+              "location": "com.stepdef.Step_Def.user_enter_password_in_password_field()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 4519678200,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "user Clicks Signin Button And Navigates To Home Page",
+            "match": {
+              "location": "com.stepdef.Step_Def.user_clicks_signin_button_and_navigates_to_home_page()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2022-04-11T07:44:25.711Z",
+        "line": 9,
+        "name": "Women Purchase",
+        "description": "",
+        "id": "dress-purchase-in-automation;women-purchase",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 5172563500,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "user Click Women",
+            "match": {
+              "location": "com.stepdef.Step_Def.user_click_women()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 2958649400,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "user Clicks The Dress",
+            "match": {
+              "location": "com.stepdef.Step_Def.user_clicks_the_dress()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 121929000,
+              "status": "passed"
+            },
+            "line": 12,
+            "name": "user Clicks Addtocart",
+            "match": {
+              "location": "com.stepdef.Step_Def.user_clicks_addtocart()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 5439583800,
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "user Clicks Proceed To Checkout",
+            "match": {
+              "location": "com.stepdef.Step_Def.user_clicks_proceed_to_checkout()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 2175060400,
+              "status": "passed"
+            },
+            "line": 14,
+            "name": "user Clicks Proceed To Summary Checkout",
+            "match": {
+              "location": "com.stepdef.Step_Def.user_clicks_proceed_to_summary_checkout()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1580677800,
+              "status": "passed"
+            },
+            "line": 15,
+            "name": "user Clicks Proceed To Address Checkout",
+            "match": {
+              "location": "com.stepdef.Step_Def.user_clicks_proceed_to_address_checkout()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 136809800,
+              "status": "passed"
+            },
+            "line": 16,
+            "name": "user Clicks Terms Checkbox",
+            "match": {
+              "location": "com.stepdef.Step_Def.user_clicks_terms_checkbox()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 2178810900,
+              "status": "passed"
+            },
+            "line": 17,
+            "name": "user Clicks Proceed To Shipping Checkout",
+            "match": {
+              "location": "com.stepdef.Step_Def.user_clicks_proceed_to_shipping_checkout()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 2054296700,
+              "status": "passed"
+            },
+            "line": 18,
+            "name": "user Clicks Pay By Bankwire",
+            "match": {
+              "location": "com.stepdef.Step_Def.user_clicks_pay_by_bankwire()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 3912509400,
+              "status": "passed"
+            },
+            "line": 19,
+            "name": "user Clicks Conform My Order",
+            "match": {
+              "location": "com.stepdef.Step_Def.user_clicks_conform_my_order()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 4110818200,
+              "status": "passed"
+            },
+            "line": 20,
+            "name": "user Clicks Logout Button",
+            "match": {
+              "location": "com.stepdef.Step_Def.user_clicks_logout_button()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@Ap1"
+          }
+        ]
+      },
+      {
+        "line": 2,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 1935099000,
+              "status": "passed"
+            },
+            "line": 3,
+            "name": "user Launch The Application",
+            "match": {
+              "location": "com.stepdef.Step_Def.user_launch_the_application()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 2300499600,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "user Clicks The Signin Page",
+            "match": {
+              "location": "com.stepdef.Step_Def.user_clicks_the_signin_page()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 169904500,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "user Enter Emailid In Emailid Field",
+            "match": {
+              "location": "com.stepdef.Step_Def.user_enter_emailid_in_emailid_field()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 169903100,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "user Enter Password In Password Field",
+            "match": {
+              "location": "com.stepdef.Step_Def.user_enter_password_in_password_field()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 2678012500,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "user Clicks Signin Button And Navigates To Home Page",
+            "match": {
+              "location": "com.stepdef.Step_Def.user_clicks_signin_button_and_navigates_to_home_page()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2022-04-11T07:45:14.149Z",
+        "line": 22,
+        "name": "Dress Purchase",
+        "description": "",
+        "id": "dress-purchase-in-automation;dress-purchase",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 2376813800,
+              "status": "passed"
+            },
+            "line": 23,
+            "name": "user Clicks Dresses",
+            "match": {
+              "location": "com.stepdef.Step_Def.user_clicks_dresses()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 2068062100,
+              "status": "passed"
+            },
+            "line": 24,
+            "name": "user Clicks Evening Dresses",
+            "match": {
+              "location": "com.stepdef.Step_Def.user_clicks_evening_dresses()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 185156800,
+              "status": "passed"
+            },
+            "line": 25,
+            "name": "user Clicks The Dress2",
+            "match": {
+              "location": "com.stepdef.Step_Def.user_clicks_the_dress2()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 13620591300,
+              "status": "passed"
+            },
+            "line": 26,
+            "name": "user Clicks Addtocart2",
+            "match": {
+              "location": "com.stepdef.Step_Def.user_clicks_addtocart2()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 7663872500,
+              "status": "passed"
+            },
+            "line": 27,
+            "name": "user Clicks Proceed To Checkout2",
+            "match": {
+              "location": "com.stepdef.Step_Def.user_clicks_proceed_to_checkout2()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 3513134800,
+              "status": "passed"
+            },
+            "line": 28,
+            "name": "user Clicks Proceed To Summary Checkout2",
+            "match": {
+              "location": "com.stepdef.Step_Def.user_clicks_proceed_to_summary_checkout2()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 4304662100,
+              "status": "passed"
+            },
+            "line": 29,
+            "name": "user Clicks Proceed To Address Checkout2",
+            "match": {
+              "location": "com.stepdef.Step_Def.user_clicks_proceed_to_address_checkout2()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 119931100,
+              "status": "passed"
+            },
+            "line": 30,
+            "name": "user Clicks Terms Checkbox2",
+            "match": {
+              "location": "com.stepdef.Step_Def.user_clicks_terms_checkbox2()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 4098052100,
+              "status": "passed"
+            },
+            "line": 31,
+            "name": "user Clicks Proceed To Shipping Checkout2",
+            "match": {
+              "location": "com.stepdef.Step_Def.user_clicks_proceed_to_shipping_checkout2()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 3440351800,
+              "status": "passed"
+            },
+            "line": 32,
+            "name": "user Clicks Pay By Bankwire2",
+            "match": {
+              "location": "com.stepdef.Step_Def.user_clicks_pay_by_bankwire2()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 7306056900,
+              "status": "passed"
+            },
+            "line": 33,
+            "name": "user Clicks Conform My Order2",
+            "match": {
+              "location": "com.stepdef.Step_Def.user_clicks_conform_my_order2()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 5186277900,
+              "status": "passed"
+            },
+            "line": 34,
+            "name": "user Clicks Logout Button2",
+            "match": {
+              "location": "com.stepdef.Step_Def.user_clicks_logout_button2()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@Ap2"
+          }
+        ]
+      },
+      {
+        "line": 2,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 1526347200,
+              "status": "passed"
+            },
+            "line": 3,
+            "name": "user Launch The Application",
+            "match": {
+              "location": "com.stepdef.Step_Def.user_launch_the_application()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 2953523600,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "user Clicks The Signin Page",
+            "match": {
+              "location": "com.stepdef.Step_Def.user_clicks_the_signin_page()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 195887500,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "user Enter Emailid In Emailid Field",
+            "match": {
+              "location": "com.stepdef.Step_Def.user_enter_emailid_in_emailid_field()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 147914900,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "user Enter Password In Password Field",
+            "match": {
+              "location": "com.stepdef.Step_Def.user_enter_password_in_password_field()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 4538243000,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "user Clicks Signin Button And Navigates To Home Page",
+            "match": {
+              "location": "com.stepdef.Step_Def.user_clicks_signin_button_and_navigates_to_home_page()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2022-04-11T07:46:15.343Z",
+        "line": 36,
+        "name": "Tshirt Purchase",
+        "description": "",
+        "id": "dress-purchase-in-automation;tshirt-purchase",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 1987316600,
+              "status": "passed"
+            },
+            "line": 37,
+            "name": "user Clicks Tshirt",
+            "match": {
+              "location": "com.stepdef.Step_Def.user_clicks_tshirt()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 210915500,
+              "status": "passed"
+            },
+            "line": 38,
+            "name": "user Clicks The Dress3",
+            "match": {
+              "location": "com.stepdef.Step_Def.user_clicks_the_dress3()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1847616800,
+              "status": "passed"
+            },
+            "line": 39,
+            "name": "user Clicks Addtocart3",
+            "match": {
+              "location": "com.stepdef.Step_Def.user_clicks_addtocart3()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 5967766200,
+              "status": "passed"
+            },
+            "line": 40,
+            "name": "user Clicks Proceed To Checkout3",
+            "match": {
+              "location": "com.stepdef.Step_Def.user_clicks_proceed_to_checkout3()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1927977200,
+              "status": "passed"
+            },
+            "line": 41,
+            "name": "user Clicks Proceed To Summary Checkout3",
+            "match": {
+              "location": "com.stepdef.Step_Def.user_clicks_proceed_to_summary_checkout3()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1347350500,
+              "status": "passed"
+            },
+            "line": 42,
+            "name": "user Clicks Proceed To Address Checkout3",
+            "match": {
+              "location": "com.stepdef.Step_Def.user_clicks_proceed_to_address_checkout3()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 118929800,
+              "status": "passed"
+            },
+            "line": 43,
+            "name": "user Clicks Terms Checkbox3",
+            "match": {
+              "location": "com.stepdef.Step_Def.user_clicks_terms_checkbox3()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1904091000,
+              "status": "passed"
+            },
+            "line": 44,
+            "name": "user Clicks Proceed To Shipping Checkout3",
+            "match": {
+              "location": "com.stepdef.Step_Def.user_clicks_proceed_to_shipping_checkout3()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1665056900,
+              "status": "passed"
+            },
+            "line": 45,
+            "name": "user Clicks Pay By Bankwire3",
+            "match": {
+              "location": "com.stepdef.Step_Def.user_clicks_pay_by_bankwire3()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 3389262600,
+              "status": "passed"
+            },
+            "line": 46,
+            "name": "user Clicks Conform My Order3",
+            "match": {
+              "location": "com.stepdef.Step_Def.user_clicks_conform_my_order3()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 4814821500,
+              "status": "passed"
+            },
+            "line": 47,
+            "name": "user Clicks Logout Button3",
+            "match": {
+              "location": "com.stepdef.Step_Def.user_clicks_logout_button3()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@Ap3"
+          }
+        ]
+      }
+    ],
+    "name": "Dress purchase in Automation",
+    "description": "",
+    "id": "dress-purchase-in-automation",
+    "keyword": "Feature",
+    "uri": "file:src/test/java/com/automation/feature/Automation.feature",
+    "tags": []
+  }
+]
